@@ -21,12 +21,3 @@ git rm --cached index.html
 
 or git restore --staged index.html
 
-___________________________________
-amend
-Edit the commit message.
-
-Add or remove files from the commit.
-
-Change the content of the files in the commit.
-git commit --amend
-
